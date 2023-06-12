@@ -97,7 +97,7 @@ const project = () => {
                         <div className=' col-span-6 sm:col-span-12'>
                         <Projects type="Frotend" title="Fully Responsive Portfolio" summary="A feature-rich Crypto Screener App using React, Tailwind CSS, Context API, React Router and Recharts. 
                             It shows detail regarding almost all the cryptocurrency. You can easily convert the price in your 
-                            local currency." img={pf} link="/" github="www.github.com" />
+                            local currency." img={pf} link="/" github="https://github.com/Surajpverma/Portfolio" />
                         </div>
                         <div className='col-span-12'>
                         <FeaturedProject type="Frotend" title="--Will be revealed soon--" summary="I am working on this project for Coding Club." img={electives} link="/" github="www.github.com" />

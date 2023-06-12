@@ -31,8 +31,8 @@ export default function Home() {
                 Explore my latest projects and articles, showcasing my expertise in React.js and web development.
               </p>
               <div className='flex item-center self-start mt-4 lg:self-center'>
-                <Link href="/dummy.pdf" target={"_blank"} className='flex items-center bg-light text-dark p-2 px-6 text-lg  hover:bg-primary border-2 border-solid border-dark dark:bg-dark dark:text-light hover:dark:bg-primaryDark hover:dark:text-light dark:border-light md:p-2 md:px-4 md:text-base duration-700 heading font-[50] tracking-[0.2rem]' download={true}>Resume <LinkArrow className="w-6 ml-1" /> </Link>
-                <Link href="/contact" target={"_blank"} className='m-4 ml-6 text-lg  capitalize text-dark underline underline-offset-4 dark:text-light md:text-base heading font-[50] tracking-[0.2rem]'>Contact</Link>
+                <Link href="/resume.pdf" target={"_blank"} className='flex items-center bg-light text-dark p-2 px-6 text-lg  hover:bg-primary border-2 border-solid border-dark dark:bg-dark dark:text-light hover:dark:bg-primaryDark hover:dark:text-light dark:border-light md:p-2 md:px-4 md:text-base duration-700 heading font-[50] tracking-[0.2rem]' download={true}>Resume <LinkArrow className="w-6 ml-1" /> </Link>
+                <Link href="/contact" target={"_blank"} className='m-4 ml-6 text-lg  capitalize text-dark underline underline-offset-4 dark:text-light md:text-base heading font-[50] tracking-[0.2rem]'>contact</Link>
               </div>
             </div>
           </div>
