@@ -43,7 +43,7 @@ const Exp = () => {
                 <ul className='w-full flex flex-col items-start justify-between ml-4 xs:ml-2'>
                     <Details position="Summer Intern" company="Northcorp Software Pvt. Ltd." time="May 2023-Present" address="Gurugram, Haryana" work="--will update soon--"
                     cLink="https://northcorpsoftware.com" />
-                    <Details position="Joint Secretory" company="Coding Club BITSP" time="Feb 2022-Present" address="BITS PILANI" work="Leading Coding Club as Joint Secretory throughout various activities, including events, skill training, recruitments, etc. Worked with my teammates to develop Frontend for club events during university fests. Teaching juniors in the club about concepts and technologies related to Frontend development"
+                    <Details position="Joint Secretory" company="Coding Club BITSP" time="Feb 2022-Present" address="BITS PILANI" work="Leading Coding Club as Joint Secretory throughout various activities, including events, skill training, recruitments, etc. Worked with my teammates to develop Frontend for club events during university fests. Teaching juniors in the club about concepts and technologies related to Frontend development."
                     cLink="" />
                     <Details position="Core Team Member" company="GDSC BITSP" time="Apr 2022-Present" address="BITS PILANI" work="Leading Design Team of GDSC BITSP Chapter. Actively participated in various activities, including events, skill training workshops, recruitments, etc. Designed many posters and UI for club."
                     cLink="https://gdsc.community.dev/birla-institute-of-technology-science-bits-pilani" />

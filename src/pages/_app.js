@@ -7,23 +7,6 @@ import Footer from '@/components/Footer'
 import { AnimatePresence, motion } from 'framer-motion'
 import { useRouter } from 'next/router'
 
-// const montserrat = Montserrat({
-//   subsets: ["latin"],
-//   variable: "--font-mont"
-// })
-
-
-
-// const poppins = localFont({
-//   src: [
-//     {
-//       path: './fonts/Plaak-SemicondensedRegular.woff'
-//     }
-//   ],
-//   variable: '--font-Plaak-SemicondensedRegular'
-// })
-
-
 export default function App({ Component, pageProps }) {
   const router = useRouter()
   return (

@@ -17,8 +17,8 @@ module.exports = {
       colors: {
         dark: "#333333",
         light: "#E4E1DC",
-        primary: "#E18995", // 240,86,199
-        primaryDark: "#6C9882", // 80,230,217
+        primary: "#E18995",
+        primaryDark: "#6C9882",
       },
       animation: {
         'spin-slow': 'spin 9s linear infinite',
@@ -51,22 +51,11 @@ module.exports = {
     },
     screens: {
       "2xl": { max: "1535px" },
-      // => @media (max-width: 1535px) { ... }
-
       xl: { max: "1279px" },
-      // => @media (max-width: 1279px) { ... }
-
       lg: { max: "1023px" },
-      // => @media (max-width: 1023px) { ... }
-
       md: { max: "767px" },
-      // => @media (max-width: 767px) { ... }
-
       sm: { max: "639px" },
-      // => @media (max-width: 639px) { ... }
-
       xs: { max: "479px" },
-      // => @media (max-width: 479px) { ... }
     },
   },
   plugins: [],
